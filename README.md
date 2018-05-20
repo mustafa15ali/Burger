@@ -1,6 +1,6 @@
 ### Overview
 
-In this assignment, I will a create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!
+In this assignment, I will a create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!)
 
 ### Before You Begin
 
